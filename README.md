@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- My Name Thomas Eka Swastika Putra Tibo
+- I’m currently learning NodeJs and Laravel
 <!--
 **thomaseka/thomaseka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
